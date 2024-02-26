@@ -12,6 +12,14 @@ on LLM topics. Other topics are covered on dedicated pages.
 
 # LLM-Material
 
+## Prompts
+
+[Fuck You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/). In this blog post, I’ll show you how you can intercept
+API calls w/prompts for any tool, without having to fumble through docs or read source code. I’ll show you how to setup and 
+operate mitmproxy with examples from the LLM the tools I previously mentioned. Lots of interesting details about prompts
+and ways of how to analyze whats going on.
+
+
 ## Vector Databases
 
 [Brief Backgrounder](vector_database_backgrounder.md)
