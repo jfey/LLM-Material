@@ -6,7 +6,7 @@ this repo. This allows also for a better organisation and commentary. I try to a
 
 ## Vector Databases
 
-[Brief Backgrounder]([./vector_database_backgrounder.md](vectir_database_backgrounder.md))
+[Brief Backgrounder]([vector_database_backgrounder.md](vector_database_backgrounder.md))
 
 [Vector DB Comparison](https://vdbs.superlinked.com/) is a very handy site, listing a lot of database and comparing features.
 ![Bildschirmfoto 2024-02-26 um 15.39.37.png](images%2FBildschirmfoto%202024-02-26%20um%2015.39.37.png)
