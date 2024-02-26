@@ -33,12 +33,13 @@ processes, and stores or returns the vectors quickly and reliably
 
 ###  Articles
 
-Building Generative AI Applications Using MongoDB: Harnessing the Power of Atlas Vector Search and Open Source Models.
-https://www.mongodb.com/library/vector-search/building-generative-ai-applications-using-mongodb?xs=533003
+[Building Generative AI Applications Using MongoDB](https://www.mongodb.com/library/vector-search/building-generative-ai-applications-using-mongodb?xs=533003): Harnessing the Power of Atlas Vector Search and Open Source Models.
 Nice intro into using MongoDB as a VectorDB. Easy to follow examples 
 
+[Multimodal Vector-Search Using CLIP on MongoDB](https://docs.superduperdb.com/docs/use_cases/vector_search/multimodal_image_search_clip/). This notebook demonstrates how SuperDuperDB can perform multimodal searches using the VectorIndex. It highlights SuperDuperDB's flexibility in integrating different models for vectorizing 
+diverse queries during search and inference. In this example, we utilize the CLIP multimodal architecture.
 
-MongoDB joins joins Cassandra, PostgreSQL and SingleStore in implementing AI-friendly features
+MongoDB joins Cassandra, PostgreSQL and SingleStore in implementing AI-friendly features
 https://www.theregister.com/2023/07/11/vector_databases/
 Lightweight backgrounder, mentioning MongoDB
 
@@ -46,5 +47,11 @@ Lightweight backgrounder, mentioning MongoDB
 https://analyticsindiamag.com/5-best-courses-on-vector-database/
 
 
-### Demos
-[Vector store and query engine for video recordings](https://github.com/daily-demos/recording-vector-store/tree/v1.0). This demo helps you build a vector database using your recordings using LlamaIndex and Chroma.
+### Demos/Tutorials
+
+[Vector store and query engine for video recordings](https://github.com/daily-demos/recording-vector-store/tree/v1.0). This demo helps you build a vector database using your 
+recordings using LlamaIndex and Chroma.
+
+[Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA). Learn how to use vector search and embeddings 
+to easily combine your data with large language models like GPT-4. You will first learn the concepts 
+and then create three projects.
