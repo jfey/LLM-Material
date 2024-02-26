@@ -1,9 +1,16 @@
-# LLM-Material
+# Machine Learning, LLM, Image Recognition 
 
-After always ending up north of 500 browser tabs open with LLM-related content i try to migrate the links into 
+After always ending up north of 500 browser tabs open with (mostly) LLM-related content i try to migrate the links into 
 this repo. This allows also for a better organisation and commentary. I try to add comments per link/topic. The content 
-here is (currently) mainly used to help me to remember certain information, which i found along the way.  
+here is (currently) mainly used to help me to remember certain information, which i found along the way. This page focuses 
+on LLM topics. Other topics are covered on dedicated pages.
 
+## Image recognition
+
+[image recognition.md](image%20recognition.md)
+
+
+# LLM-Material
 
 ## Vector Databases
 
