@@ -1,7 +1,8 @@
 # LLM-Material
 
 After always ending up north of 500 browser tabs open with LLM-related content i try to migrate the links into 
-this repo. This allows also for a better organisation and commentary. I try to add comments per link/topic.
+this repo. This allows also for a better organisation and commentary. I try to add comments per link/topic. The content 
+here is (currently) mainly used to help me to remember certain information, which i found along the way.  
 
 
 ## Vector Databases
@@ -18,8 +19,8 @@ this repo. This allows also for a better organisation and commentary. I try to a
 
 ### Libraries Used Internally
 
-Faiss
-https://github.com/facebookresearch/faiss
+[Faiss](https://github.com/facebookresearch/faiss)
+
 
 ### Tools
 
@@ -55,3 +56,6 @@ recordings using LlamaIndex and Chroma.
 [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA). Learn how to use vector search and embeddings 
 to easily combine your data with large language models like GPT-4. You will first learn the concepts 
 and then create three projects.
+
+[Zeta Alpha Trends in AI](https://www.youtube.com/@zetavector/videos). Monthly updates lasting around one hour.
+
